@@ -8,6 +8,6 @@
 
 - ⚡ Fun fact **used to be somewhat of a gamer back in the day**
 <hr>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joshh3ro&show_icons=true&theme=radical&locale=en" alt="joshh3ro" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=joshh3ro&show_icons=true&theme=radical&locale=en" alt="joshh3ro" /></p>
 
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joshh3ro&theme=dark" alt="joshh3ro" /></p>
+<p align="left"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=joshh3ro&theme=dark" alt="joshh3ro" /></p>
