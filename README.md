@@ -4,8 +4,6 @@
 <hr>
 
 - 🔭 I’m currently working on **my react.js portfolio**
-
 - 🌱 I’m currently learning **[React.js](https://react.dev/), [Firebase](https://firebase.google.com/), [GCP](https://cloud.google.com/) & [Next.JS](https://nextjs.org/)**
-
 - ⚡ Fun fact **used to be somewhat of a gamer back in the day**
 <hr>
