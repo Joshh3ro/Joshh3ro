@@ -3,9 +3,9 @@
 <h3 align="center">A passionate developer from Denmark</h3>
 <hr>
 
-- 🔭 I’m currently working on **my react.js portfolio**
+- 🔭 I’m currently working on **my [Next.JS](https://nextjs.org/) portfolio**
 
-- 🌱 I’m currently learning **[React.js](https://react.dev/), [Firebase](https://firebase.google.com/), [GCP](https://cloud.google.com/) & [Next.JS](https://nextjs.org/), [SupaBase](https://supabase.com/)**
+- 🌱 I’m currently learning **[React.js](https://react.dev/), [Firebase](https://firebase.google.com/), [GCP](https://cloud.google.com/) & [SupaBase](https://supabase.com/)**
 
 - ⚡ Fun fact **used to be somewhat of a gamer back in the day**
 
