@@ -9,6 +9,7 @@
 
 - ⚡ Fun fact **used to be somewhat of a gamer back in the day**
 
+Software should speak to the user, and the user should be able to speak back to it, if we cant do that then what's the point? 
 <hr>
 
 <img width="1000" height="248" alt="image" src="https://github.com/user-attachments/assets/0e2e77f1-adb9-406f-a0f4-706e6f2808ef" />
